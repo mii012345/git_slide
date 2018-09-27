@@ -16,3 +16,4 @@ var b = 10;
 console.log(a+b);
 ```
 JavaScriptのコード
+@[2](2行目のコードをハイライト)
