@@ -17,3 +17,10 @@ console.log(a+b);
 ```
 JavaScriptのコード
 @[2](2行目のコードをハイライト)
+
+---
+
+- Java |
+- JavaScript |
+- Python |
+- c++ |
