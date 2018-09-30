@@ -26,7 +26,7 @@
 
 +++
 
-(wikipediaより引用)
+wikipediaより引用
 
 +++
 
