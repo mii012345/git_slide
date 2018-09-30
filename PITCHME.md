@@ -21,9 +21,9 @@
 +++
 
 バージョン管理システムはほかにも
-<ol>
+<ul>
  <li>SVN</li>
  <li>Mercurial</li>
-</ol>
+</ul>
 
 +++
