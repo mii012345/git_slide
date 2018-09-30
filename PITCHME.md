@@ -6,7 +6,7 @@
 <ol>
  <li>gitとは</li>
  <li>githubとの関係</li>
- <li>コマンド解説</li>
+ <li>使ってみよう</li>
  <li>おわり</li>
 </ol>
  
