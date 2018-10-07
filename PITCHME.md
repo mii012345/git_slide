@@ -84,8 +84,13 @@ git init
 +++
 
 ~~~
-git add [ファイル名]
+git add <filename>
 ~~~
 ステージにファイルを乗せる
 
 +++
+
+~~~
+git commit -m "<comment>"
+~~~
+ステージ上に上がった変更点をコミットする
