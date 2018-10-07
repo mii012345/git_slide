@@ -84,6 +84,6 @@ git init
 +++
 
 ~~~
-git add [ファイル名 
+git add [ファイル名]
 ~~~
 
