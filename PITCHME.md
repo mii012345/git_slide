@@ -84,20 +84,8 @@ git checkout <id> <filename>
 git checkout -b <branchname>
 ~~~
 @[1](カレントディレクトリにgitリポジトリを作成する)
-
-+++
-
-~~~
-git add <filename>
-~~~
-ステージにファイルを乗せる
-
-+++
-
-~~~
-git commit -m "<comment>"
-~~~
-ステージ上に上がった変更点を確定させる
+@[2](ステージにファイルをあげる)
+@[3](ステージに上がった変更点を確定させる)
 
 +++
 
