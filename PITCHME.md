@@ -93,4 +93,12 @@ git add <filename>
 ~~~
 git commit -m "<comment>"
 ~~~
-ステージ上に上がった変更点をコミットする
+ステージ上に上がった変更点を確定させる
+
++++
+
+~~~
+git checkout <id> <filename>
+git checkout -b <branchname>
+~~~
+@[1]
