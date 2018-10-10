@@ -96,3 +96,4 @@ git checkout -b <branchname>
 +++
 
 ### ステージ
+![stage](18333fig0106-tn.png)
