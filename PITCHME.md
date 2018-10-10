@@ -97,4 +97,4 @@ git checkout -b <branchname>
 
 ### ステージ
 ![stage](18333fig0106-tn.png)
-picture by git-scm.com
+<br>picture by git-scm.com
