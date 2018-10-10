@@ -78,6 +78,10 @@
 
 ~~~
 git init
+git add <filename>
+git commit -m "<comment>"
+git checkout <id> <filename>
+git checkout -b <branchname>
 ~~~
 カレントディレクトリにgitリポジトリを作成する
 
