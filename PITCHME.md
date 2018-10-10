@@ -83,7 +83,7 @@ git commit -m "<comment>"
 git checkout <id> <filename>
 git checkout -b <branchname>
 ~~~
-@[1]カレントディレクトリにgitリポジトリを作成する
+@[1](カレントディレクトリにgitリポジトリを作成する)
 
 +++
 
