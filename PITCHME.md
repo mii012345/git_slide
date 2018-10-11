@@ -102,5 +102,5 @@ git checkout -b <branchname>
 +++
 
 ### ブランチ
-![branch](18333fig0315-tn.png)
-<br>picture by git-scm.com
+![branch](capture_stepup1_2_1.png)
+<br>picture by backlog.com/ja/git-tutorial/stepup/stepup1_2.html
