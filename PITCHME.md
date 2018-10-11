@@ -102,3 +102,5 @@ git checkout -b <branchname>
 +++
 
 ### ブランチ
+![branch](18333fig0315-tn.png)
+<br>picture by git-scm.com
