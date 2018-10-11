@@ -91,10 +91,14 @@ git checkout -b <branchname>
 
 +++
 
-### 使い方はわかったけど知らんの多すぎ
+### 使い方はわかったけど知らん用語多すぎ
 
 +++
 
 ### ステージ
 ![stage](18333fig0106-tn.png)
 <br>picture by git-scm.com
+
++++
+
+### 変更を確定する前にバグに気づいても直せる
